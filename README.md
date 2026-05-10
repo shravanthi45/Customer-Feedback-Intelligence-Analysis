@@ -150,35 +150,6 @@ Interactive dashboard includes:
 
 ---
 
-📁 Project Structure
-
-```text
-AI-Powered-User-Feedback-Analysis/
-│
-├── data/
-│   └── cleaned_complaints_dataset.csv
-│
-├── scripts/
-│   ├── data_collection.py
-│   └── model_training.py
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── dashboard/
-│   └── AI_Powered_User_Feedback_Analysis_Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard_preview.png
-│
-├── sentiment_model.pkl
-├── vectorizer.pkl
-│
-└── README.md
-```
-
----
-
 💼 Business Use Cases
 
 This solution helps organizations:
